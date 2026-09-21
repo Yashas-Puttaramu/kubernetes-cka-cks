@@ -2,7 +2,7 @@
 
 An interactive, single-file React encyclopedia for Docker/OCI internals, the **CKA** and **CKS** curricula, and Day-2 cloud-native operations (GitOps, observability, service mesh, Gateway API, Helm). Every diagram is hand-built SVG; every lab step has a real command with expected output; every blueprint is a complete, valid manifest you can copy straight into a cluster.
 
-> Live demo: `https://<your-username>.github.io/kubernetes-cka-cks/` (after enabling GitHub Pages — see below)
+> Live demo: `https://yashas-puttaramu.github.io/kubernetes-cka-cks/` (after enabling GitHub Pages — see below)
 
 ## What's inside
 
